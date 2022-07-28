@@ -26,7 +26,7 @@
     },
     "Jenkins": {
      "commandName": "Project",
-     "dotnetRunMessages": "true"
+     "dotnetRunMessages": "true",
      "launchBrowser": false,
      "applicationUrl": "https://78.47.131.198:5001;http://78.47.131.198:5000",
      "environmentVariables": {
